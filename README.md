@@ -13,4 +13,9 @@ date-fns
 
 ## Telas
 
-![alt text]()
+(sem podcast selecionado)
+![alt text](https://raw.githubusercontent.com/luciancardoso/podcastrnext/main/Telas/captura.png)
+(com podcast tocando e todas as suas funcões funcionando como shuffle e repeat)
+![alt text](https://raw.githubusercontent.com/luciancardoso/podcastrnext/main/Telas/captura1.png)
+(com podcast tocando exibindo sua pagina de conteudo )
+![alt text](https://raw.githubusercontent.com/luciancardoso/podcastrnext/main/Telas/captura2.png)
