@@ -1,5 +1,5 @@
 # PodcastrNext - Trilha ReactJS - NLW#5
-Podcastrnext criado com NextJS
+Podcastrnext criado com NextJS para acompanhar as aulas da edição 5 da NLW, da Rocketseat.
 
 ## Tecnologias e Bibliotecas Usadas
 - React
