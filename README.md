@@ -10,3 +10,7 @@ Podcastrnext criado com NextJS
 - Libs:
 rc-slider
 date-fns
+
+## Telas
+
+![alt text]()
