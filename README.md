@@ -5,7 +5,7 @@ Podcastrnext criado com NextJS
 - React
 - Typescript
 - Next.js
-- Scss
+- Sass
 - JSON Server
 - Libs:
 rc-slider
